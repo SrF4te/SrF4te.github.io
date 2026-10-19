@@ -1,5 +1,5 @@
 ---
-title: HTB writeup test
+title: HTB Touch Writeup
 published: true
 ---
 
